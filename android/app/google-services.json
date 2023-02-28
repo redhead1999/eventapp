@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "847047144297",
+    "project_id": "eventsnova-adcf6",
+    "storage_bucket": "eventsnova-adcf6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847047144297:android:7668f912f8a4c67c66c3f8",
+        "android_client_info": {
+          "package_name": "com.aold.events"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "847047144297-e57u1eeuab1bp3t6eu14b8jbllttee8d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aold.events",
+            "certificate_hash": "7a8f0b4b5ed636d1225e0b3e7c4a5b2dded75b50"
+          }
+        },
+        {
+          "client_id": "847047144297-ikn9tu3rhj6poedode8rdjl1dbeagi8m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBinb8pUF5sUYlluoJdujQKsXEcYuDlBUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "847047144297-ikn9tu3rhj6poedode8rdjl1dbeagi8m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
